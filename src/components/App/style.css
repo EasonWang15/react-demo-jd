@@ -1,0 +1,16 @@
+* {padding: 0;margin: 0;}
+ul, li {
+  list-style: none;
+}
+button {
+  border: none;
+}
+.container {
+  width: 100%;
+  margin-bottom: 51px;
+}
+.container img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
